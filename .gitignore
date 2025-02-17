@@ -1,0 +1,17 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+.idea/
+venv/
+*.pt
+*.pth
+/crack_estimate/12K/
+/crack_estimate/groundTruthPngImg/
+/results/
+/test/
+/train/groundTruth/
+/train/image/
+.venv/
+env/
